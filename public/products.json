@@ -1,9 +1,9 @@
 {
   "products": [{
       "id": "1",
-      "name": "Cherry",
+      "name": "Cherryyy",
       "image": "images/Cherry.png",
-      "price": "$1.99",
+      "price": "$199",
       "colors": ["red", "green", "blue"],
       "condition": "Fresh",
       "description": "Two Cherries"
